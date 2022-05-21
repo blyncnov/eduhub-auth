@@ -97,3 +97,9 @@ button {
     width: 350px;
   }
 }
+
+@media (max-width: 500px) {
+  .login__box {
+    width: 90%;
+  }
+}
